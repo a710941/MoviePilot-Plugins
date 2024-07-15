@@ -662,7 +662,7 @@
         "name": "契约检查",
         "description": "定时检查保种契约达成情况。",
         "labels": "做种",
-        "version": "1.4",
+        "version": "1.5",
         "icon": "contract.png",
         "author": "DzAvril",
         "level": 1,
